@@ -44,4 +44,7 @@ body {
     .column4 {
         width: 50%;
     }
+    #div100 {
+        width: 100%;
+    }
 }
